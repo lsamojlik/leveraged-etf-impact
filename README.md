@@ -61,7 +61,7 @@ ________________________________________
 
 **Podsumowanie i wnioski dla inwestora**:
 
-**1.Skala LETF-ów jest już wystarczająco duża, aby ich rebalancing mógł mieć znaczenie dla rynku.** Na 06.08.2026 TQQQ i QLD miały łącznie $50,4 mld AUM, a potencjalna presja rebalancingowa przy 1% ruchu Nasdaq-100 wynosiła ok. $2,47 mld. W przypadku SOXL potencjalna presja odpowiadała aż 55,5% mediany dziennego obrotu SOXX.
+**1. Skala LETF-ów jest już wystarczająco duża, aby ich rebalancing mógł mieć znaczenie dla rynku.** Na 06.08.2026 TQQQ i QLD miały łącznie $50,4 mld AUM, a potencjalna presja rebalancingowa przy 1% ruchu Nasdaq-100 wynosiła ok. $2,47 mld. W przypadku SOXL potencjalna presja odpowiadała aż 55,5% mediany dziennego obrotu SOXX.
 
 **2. Spółki z większą ekspozycją na LETF są generalnie bardziej zmienne, zarówno w normalnych warunkach, jak i podczas rynkowego stresu.** Nie możemy jednak stwierdzić, że jest to efekt działania LETF - bardziej zmienne spółki mogą być jednocześnie częściej wybierane przez inwestorów korzystających z lewarowanych produktów.
 
